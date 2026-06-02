@@ -1,34 +1,38 @@
 <div align="center">
 
-<!-- HEADER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a2e,100:16213e&height=200&section=header&text=s4mm1t&fontSize=80&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=cybersecurity%20%7C%20CTF%20%7C%20AI%20%7C%20open-source&descAlignY=60&descColor=aaaaaa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:101820,100:00ff41&height=185&section=header&text=s4mm1t&fontSize=78&fontColor=00ff41&animation=fadeIn&fontAlignY=38&desc=cybersecurity%20%7C%20ctf%20%7C%20python%20%7C%20ai%20security&descAlignY=60&descColor=e6e6e6" />
 
-<!-- TYPING ANIMATION -->
 <a href="https://github.com/s4mm1t">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Specialist+%F0%9F%94%93;CTF+Player+%7C+TryHackMe+%2F+HackTheBox;Python+%26+JavaScript+Developer;AI+%2B+Security+Researcher;Open-Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=720&lines=building+security+tools;breaking+labs%2C+writing+the+logic;AI+for+vulnerability+intel;clean+notes+%3E+random+commands" alt="Typing SVG" />
 </a>
 
 </div>
 
----
+```txt
+      .--.                         s4mm1t
+     |o_o |                        --------------------------------
+     |:_/ |                        security learner / ctf player
+    //   \ \                       python, bash, web, osint
+   (|     | )                      building: CVE intel + writeups
+  /'\_   _/`\                      motto: understand first, exploit second
+  \___)=(___/
+```
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+## [~] Bio
 
-## 👾 About Me
+I build small security tools, solve CTFs, and write notes that explain the reasoning behind the exploit, not just the command history.
 
-- 🔭 Working on **[CVE Intel Bot](https://github.com/s4mm1t/cve-intel-bot)** — AI-powered vulnerability intelligence agent
-- 🧩 Solving CTF challenges on **TryHackMe**, **HackTheBox** & **PicoCTF**
-- 📖 Documenting everything in **[CTF Writeups](https://github.com/s4mm1t/ctf-writeups)**
-- 🛡️ Focused on **Web Exploitation**, **OSINT**, **Reverse Engineering**
-- 🤖 Exploring the intersection of **AI & Cybersecurity**
-- 🌱 Currently learning: **Malware Analysis** & **Cloud Security**
-- ⚡ Fun fact: **The best exploit is the one you wrote yourself**
+Right now I am focused on web exploitation, OSINT, reverse engineering basics, and AI-assisted vulnerability intelligence.
 
-<br clear="right"/>
+```txt
++ current mission
+|-- ship useful security automation
+|-- document CTF paths clearly
+|-- learn malware analysis without skipping fundamentals
+`-- turn curiosity into working code
+```
 
----
-
-## 🛠️ Languages & Tools
+## [#] Languages & Tools
 
 <div align="center">
 
@@ -51,9 +55,26 @@
 
 </div>
 
----
+## [>] Featured Work
 
-## 🏆 CTF Platforms
+<div align="center">
+
+[![CVE Intel Bot](https://github-readme-stats.vercel.app/api/pin/?username=s4mm1t&repo=cve-intel-bot&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff&icon_color=00ff41&hide_border=true)](https://github.com/s4mm1t/cve-intel-bot)
+[![CTF Writeups](https://github-readme-stats.vercel.app/api/pin/?username=s4mm1t&repo=ctf-writeups&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff&icon_color=00ff41&hide_border=true)](https://github.com/s4mm1t/ctf-writeups)
+
+</div>
+
+```txt
+repo://cve-intel-bot
+  [ai] [python] [security-tools]
+  -> vulnerability intel, CVE monitoring, Telegram delivery
+
+repo://ctf-writeups
+  [ctf] [pentest] [notes]
+  -> writeups focused on reasoning, attack paths, and lessons learned
+```
+
+## [*] CTF Platforms
 
 <div align="center">
 
@@ -63,9 +84,26 @@
 
 </div>
 
----
+## [=] Current Focus
 
-## 📈 GitHub Stats
+```txt
+web exploitation      [##########] 100%
+osint                [########--]  80%
+reverse engineering  [#######---]  70%
+malware analysis     [####------]  40%
+cloud security       [##--------]  20%
+```
+
+## [@] Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s4mm1t)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/s4mm1t)
+
+</div>
+
+## [+] GitHub Stats
 
 <div align="center">
 
@@ -80,19 +118,7 @@
 
 </div>
 
----
-
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=s4mm1t&column=7&margin-w=10&margin-h=10&no-bg=true&no-frame=true&theme=matrix)](https://github.com/s4mm1t)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
+## [~] Contribution Snake
 
 <div align="center">
 
@@ -104,56 +130,10 @@
 
 </div>
 
----
-
-## 📊 Activity Graph
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=s4mm1t&bg_color=0d0d0d&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true)](https://github.com/s4mm1t)
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-[![CVE Intel Bot](https://github-readme-stats.vercel.app/api/pin/?username=s4mm1t&repo=cve-intel-bot&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff&icon_color=00ff41&hide_border=true)](https://github.com/s4mm1t/cve-intel-bot)
-[![CTF Writeups](https://github-readme-stats.vercel.app/api/pin/?username=s4mm1t&repo=ctf-writeups&bg_color=0d0d0d&title_color=00ff41&text_color=ffffff&icon_color=00ff41&hide_border=true)](https://github.com/s4mm1t/ctf-writeups)
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-```
-Target Acquired: Web Exploitation ██████████ 100%
-In Progress:     Reverse Engineering ███████░░░  70%
-Learning:        Malware Analysis ████░░░░░░  40%
-Upcoming:        Cloud Security ██░░░░░░░░  20%
-```
-
----
-
-## 📡 Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/s4mm1t)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/s4mm1t)
-
-</div>
-
----
-
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=s4mm1t&style=flat&color=00ff41&label=PROFILE+VIEWS)
 
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d0d0d&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=120&section=footer&animation=twinkling" />
 
 </div>
